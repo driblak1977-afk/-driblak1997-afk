@@ -15,6 +15,6 @@
 - Firebase
 
 #### 📫 Contato
-- [Meu LinkedIn](cole seu link do LinkedIn aqui)
+- https://www.linkedin.com/in/adriano-da-cruz-509038449/
 
 ⭐️ Sempre aprendendo e codando!
